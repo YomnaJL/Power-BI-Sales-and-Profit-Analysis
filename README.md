@@ -45,3 +45,5 @@ The dashboard uses a dataset with the following columns:
 ---
 
 ## Screenshot
+![Dashboard Preview](dhash1.png)
+![Dashboard Preview](dash2.png)
