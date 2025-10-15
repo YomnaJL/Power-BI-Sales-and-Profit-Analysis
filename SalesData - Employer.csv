@@ -1,0 +1,51 @@
+EmployeeID,Employee Name,Age,MaritalStatus,Gender,Length of Service,Dept,Salary Monthly
+1,Gustavo Achong,37,M,M,17,Sales,3297
+2,Catherine Abel,32,S,F,9,Sales,1859
+3,Kim Abercrombie,54,M,F,11,Finance,4605
+4,Humberto Acevedo,54,S,M,12,Logistics,1501
+5,Pilar Ackerman,70,M,F,12,Human Resource,2916
+6,Frances Adams,54,S,F,14,Sales,1820
+7,Margaret Smith,73,S,F,6,Sales,3466
+8,Carla Adams,73,M,F,7,Finance,3446
+9,Jay Adams,26,M,M,13,Finance,4275
+10,Ronald Adina,53,S,M,9,Logistics,4883
+11,Samuel Agcaoili,70,M,M,6,Logistics,1281
+12,James Aguilar,58,S,M,21,Human Resource,3506
+13,Robert Ahlering,31,M,M,21,Production,4780
+14,François Ferrier,28,M,M,9,Logistics,4165
+15,Kim Akers,30,S,F,10,Production,1967
+16,Lili Alameda,41,S,F,11,Production,4808
+17,Amy Alberts,40,M,F,21,Production,1949
+18,Anna Albright,34,M,F,21,Sales,2194
+19,Milton Albury,36,M,F,21,Sales,1165
+20,Paul Alcorn,32,M,M,20,Finance,3064
+21,Gregory Alderson,43,M,M,20,Production,4949
+22,J. Phillip Alexander,53,S,M,20,Logistics,4874
+23,Michelle Alexander,44,S,F,20,Human Resource,3563
+24,Sean Jacobson,49,S,M,20,Finance,4267
+25,Phyllis Allen,45,S,F,20,Production,3985
+26,Marvin Allen,47,M,M,13,Production,1379
+27,Michael Allen,48,S,M,5,Finance,4666
+28,Cecil Allison,52,S,M,15,Human Resource,3636
+29,Oscar Alpuerto,43,M,M,14,Finance,3590
+30,Sandra Altamirano,53,M,F,10,Production,2234
+31,Selena Alvarado,40,S,F,13,Production,2082
+32,Emilio Alvaro,44,S,M,8,Sales,1988
+33,Maxwell Amland,46,S,M,18,Sales,1379
+34,Mae Anderson,51,S,F,6,Finance,1129
+35,Ramona Antrim,52,M,F,9,Logistics,1982
+36,Sabria Appelbaum,51,M,F,8,Human Resource,2416
+37,Hannah Arakawa,39,S,F,11,Production,4221
+38,Kyley Arbelaez,40,S,F,6,Production,3778
+39,Tom Johnston,44,S,M,15,Production,3052
+40,Thomas Armstrong,40,M,M,6,Finance,3894
+41,John Arthur,35,M,M,12,Sales,1411
+42,Chris Ashton,53,S,M,6,Logistics,1392
+43,Teresa Atkinson,29,M,F,8,Logistics,1237
+44,John Ault,32,S,M,9,Sales,4039
+45,Robert Avalos,40,S,M,6,Production,4588
+46,Stephen Ayers,42,S,M,12,Production,1698
+47,Phillip Bacalzo,27,S,M,10,Human Resource,3882
+48,Daniel Blanco,31,S,M,9,Finance,3758
+49,Cory Booth,32,M,M,10,Finance,2461
+50,Mark Anderson,33,M,M,11,Sales,4238
