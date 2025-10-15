@@ -2,8 +2,8 @@
 
 ## Overview
 
-An interactive **Power BI dashboard** designed to analyze a company’s sales performance.
-It provides insights into sales, profit, and margins across products, categories, channels, and regions, with the ability to track trends over time.
+An interactive Power BI dashboard designed to analyze a company’s sales performance.
+The project includes data cleaning and transformation to ensure accurate and reliable insights. It visualizes sales, profit, and margins across products, categories, channels, and regions, and tracks trends over time.
 
 ---
 
