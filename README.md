@@ -1,2 +1,59 @@
-# Power-BI-Sales-and-Profit-Analysis
-An interactive dashboard to visualize sales, profit, and margins across products, categories, and regions. It tracks trends over time and allows dynamic filtering for detailed business insights.
+# Power BI – Sales and Profit Analysis
+
+## Overview
+
+An interactive **Power BI dashboard** designed to analyze a company’s sales performance.
+It provides insights into sales, profit, and margins across products, categories, channels, and regions, with the ability to track trends over time.
+
+---
+
+## Features
+
+* **KPI Overview:** Total Sales, Total Profit, Average Margin, Total Quantity Sold.
+* **Time Analysis:** Monthly and yearly sales and profit trends.
+* **Product Analysis:** Top products, profit by category and sub-category, brand performance.
+* **Channel Analysis:** Sales and profit distribution across sales channels.
+* **Geographical Analysis:** Sales and profit visualized by city, region, and country.
+* **Interactivity:** Cross-filtering between charts, tables, and maps for detailed insights.
+
+---
+
+## Dataset
+
+The dashboard uses a dataset with the following columns:
+`Order ID, Order Date, Year, Order Qty, Cost of Sales, Sales, Profit, Channel, Product Name, Manufacturer, Brand Name, Product Sub Category, Product Category, Region, City, Country`
+
+---
+
+## Technologies
+
+* **Power BI Desktop**
+* **DAX** for measures and calculations
+* **Data Visualization Techniques**: Pie charts, bar charts, line charts, treemaps, maps, KPI cards
+
+---
+
+## How to Use
+
+1. Open **Power BI Desktop**.
+2. Import the dataset CSV file.
+3. Apply the included **DAX measures** for KPIs:
+
+   * Total Sales, Total Profit, Average Margin, Total Quantity
+4. Use the interactive filters and slicers to explore sales by product, channel, or region.
+
+---
+
+## Screenshot (Optional)
+
+*(Add a screenshot of your dashboard here for better visualization)*
+
+---
+
+## License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+---
+
+Si tu veux, je peux te créer **une version encore plus courte et percutante** du README pour GitHub, adaptée à un **CV ou portfolio**, avec juste 3-4 sections clés. Veux‑tu que je fasse ça ?
