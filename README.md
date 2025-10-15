@@ -44,16 +44,4 @@ The dashboard uses a dataset with the following columns:
 
 ---
 
-## Screenshot (Optional)
-
-*(Add a screenshot of your dashboard here for better visualization)*
-
----
-
-## License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
-
----
-
-Si tu veux, je peux te créer **une version encore plus courte et percutante** du README pour GitHub, adaptée à un **CV ou portfolio**, avec juste 3-4 sections clés. Veux‑tu que je fasse ça ?
+## Screenshot
